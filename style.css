@@ -1,24 +1,37 @@
 .centered {
     text-align: center;
+   
 
 }
 
-.div {
+.headerstyle {
     background-color: rgb(228, 222, 222);
+    text-align: center;
     margin-left: 350px;
     margin-right: 350px;
-}
-
-.hrstyle {
-    color: black;
     width: auto;
 }
 
-.main {
-    margin-left: 350px;
-    margin-right: 350px
+.hrstyle {
+    border-bottom-width: 3px;
+    border-color: gold;
+    border
+   
 }
 
-.titlecolor {
+.mainstyle {
+    margin-left: 350px;
+    margin-right: 350px;
+    
+}
+
+.titlestyle {
     color: gold;
+
+}
+
+.substyle {
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
