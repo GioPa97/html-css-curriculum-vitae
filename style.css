@@ -1,17 +1,20 @@
 .centered {
     text-align: center;
-    
+
 }
 
-
+.allign {
+    text-align: center;
+    display: block;
+}
 
 
 
 
 .div {
     background-color: rgb(228, 222, 222);
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 350px;
+    margin-right: 350px;
 
 
 
@@ -23,10 +26,11 @@
 }
 
 .main {
-    margin-left: 200px;
-    margin-right: 200px
+    margin-left: 350px;
+    margin-right: 350px
 }
 
 .titlecolor {
     color: gold;
 }
+
