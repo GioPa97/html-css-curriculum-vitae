@@ -1,17 +1,32 @@
 .centered {
     text-align: center;
+    
 }
 
+
+
+
+
+
 .div {
-    background-color: grey;
+    background-color: rgb(228, 222, 222);
     margin-left: 200px;
     margin-right: 200px;
+
 
 
 }
 
 .hrstyle {
     color: black;
-    size: 100px;
-    width: 100px;
-   
+    width: auto;
+}
+
+.main {
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+.titlecolor {
+    color: gold;
+}
