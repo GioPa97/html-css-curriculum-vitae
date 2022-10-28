@@ -1,12 +1,13 @@
 .centered {
     text-align: center;
-   
+
 
 }
 
 .headerstyle {
     background-color: rgb(228, 222, 222);
     text-align: center;
+    border-spacing: 300px;
     margin-left: 350px;
     margin-right: 350px;
     width: auto;
@@ -15,18 +16,18 @@
 .hrstyle {
     border-bottom-width: 3px;
     border-color: gold;
-    border
-   
 }
+
 
 .mainstyle {
     margin-left: 350px;
     margin-right: 350px;
-    
+
 }
 
 .titlestyle {
     color: gold;
+
 
 }
 
