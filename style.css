@@ -3,21 +3,10 @@
 
 }
 
-.allign {
-    text-align: center;
-    display: block;
-}
-
-
-
-
 .div {
     background-color: rgb(228, 222, 222);
     margin-left: 350px;
     margin-right: 350px;
-
-
-
 }
 
 .hrstyle {
@@ -33,4 +22,3 @@
 .titlecolor {
     color: gold;
 }
-
